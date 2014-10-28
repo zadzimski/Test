@@ -2,7 +2,7 @@
 public class HelloGit {
 
 	/**
-	 * @param args
+	 * Test class for git
 	 */
 	public static void main(String[] args) {
 
